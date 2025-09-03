@@ -76,7 +76,7 @@ QRCodeRecognizer is built with a clean separation between the UI and detector co
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/takeshikodev/QRCodeRecognizer.git
+   git clone https://github.com/cybermura-dev/QRCodeRecognizer.git
    cd QRCodeRecognizer
    ```
 
@@ -117,4 +117,4 @@ QRCodeRecognizer/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
-Copyright (c) 2025 Takeshiko 
+Copyright (c) 2025 cybermura
